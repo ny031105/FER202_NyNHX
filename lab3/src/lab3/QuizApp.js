@@ -20,7 +20,7 @@ class QuizApp extends Component {
           options: ["Jupiter", "Saturn", "Mars", "Earth"],
           answer: "Jupiter"
         }
-        // Bạn có thể thêm nhiều câu hỏi khác tại đây nếu muốn
+        
       ],
       currentQuestion: 0,
       score: 0,

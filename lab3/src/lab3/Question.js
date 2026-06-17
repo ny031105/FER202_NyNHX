@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class Question extends Component {
   render() {
-    // Nhận các thông tin câu hỏi và hàm xử lý từ props của Component cha
+  
     const { questionData, currentQuestionIndex, handleAnswerSelect } = this.props;
 
     return (
